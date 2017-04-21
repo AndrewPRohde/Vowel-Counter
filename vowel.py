@@ -12,4 +12,4 @@ vowel_i = output.count('i')
 vowel_o = output.count('o')
 vowel_u = output.count('u')
 
-print ("you used the letter A " + str(vowel_a) + " times, E " + str(vowel_e) + " times, I " + str(vowel_i) + " times, O " + str(vowel_o) + " times, and U " + str(vowel_u) + " times")
+print ("You used the letter A " + str(vowel_a) + " times, E " + str(vowel_e) + " times, I " + str(vowel_i) + " times, O " + str(vowel_o) + " times, and U " + str(vowel_u) + " times.")
